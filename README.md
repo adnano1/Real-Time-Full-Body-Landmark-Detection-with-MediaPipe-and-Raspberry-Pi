@@ -5,7 +5,7 @@
 
 This project implements a **full-body landmark detection** system using **MediaPipe**, **OpenCV**, and **Raspberry Pi**. The goal is to enable real-time tracking of 33 key body points to facilitate applications such as **fitness tracking**, **rehabilitation assistance**, and interactive **human-computer interfaces**.
 
-## Key Features
+## Key Features 
 
 - Real-Time Pose Estimation: Utilizes MediaPipe's advanced pose detection capabilities to accurately track and visualize body landmarks.
 - Edge Computing: Runs on a Raspberry Pi for a portable and cost-effective solution, making it ideal for deployment in various environments.
