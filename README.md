@@ -1,5 +1,5 @@
 
-# Real-Time Full-Body Landmark Detection with MediaPipe and Raspberry Pi 
+# Real-Time Full-Body Landmark Detection with MediaPipe and Raspberry Pi  
 
 ## Overview
 
